@@ -1,0 +1,7 @@
+name: ya-news-parser
+
+services:
+  tests:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
